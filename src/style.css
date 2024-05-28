@@ -1,0 +1,33 @@
+.button{
+  background-color: #00C5C1;
+  color : #FFFFFF;
+  border : 0px;
+  padding : 10px 20px;
+  border-radius: 25px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.button:hover{
+    background-color: #00A5C1;
+}
+
+.core-button{
+    background-color: #00C5C1;
+    color : #FFFFFF;
+    border : 0px;
+    cursor: pointer;
+}
+
+.nav-mobile:hover{
+    background-color: gainsboro;
+}
+
+.shadow-nav{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+/* .nav-boarder-bottom{
+    border-bottom: 1px solid #00A5C1 !important;
+    border-width: 5%;
+} */
